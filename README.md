@@ -3,8 +3,6 @@
 [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI
 based systems. This is a clean and minimal black theme for it.
 
-![rEFInd Minimalistic](screenshot.png)
-
 ## Difference from rEFInd-minimal-black
 
 Basically, I just made all the logos flatter. Here's a comparison of the Arch icon from rEFInd-minimal-black (left) and rEFInd-minimal-black-flat (right)
